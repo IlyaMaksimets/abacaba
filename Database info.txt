@@ -1,0 +1,13 @@
+1-15 - stars
+17-26 - song volume
+28-37 - sounds volume
+39-85 - time
+87 - endless record
+
+===================================
+
+1-39 - stars
+41-50 - song volume
+52-61 - sounds volume
+63-205 - time
+208 - endless
